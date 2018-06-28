@@ -6,7 +6,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello, world");
 		
-		System.out.println("Iam from Master branch");
+		System.out.println("Iam from Rfe branch");
 	}
 
 }
