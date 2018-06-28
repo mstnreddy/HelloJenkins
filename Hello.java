@@ -1,4 +1,4 @@
-package helloJenkins;
+
 
 public class Hello {
 
