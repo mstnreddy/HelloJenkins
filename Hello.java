@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Hello, world");
 		
 		System.out.println("Iam from bug branch");
+		System.out.println("Triggered automatically ..............");
 	}
 
 }
